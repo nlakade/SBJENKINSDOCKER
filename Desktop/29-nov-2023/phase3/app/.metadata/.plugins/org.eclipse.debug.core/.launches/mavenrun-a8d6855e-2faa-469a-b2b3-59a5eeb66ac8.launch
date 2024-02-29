@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.m2e.Maven2LaunchConfigurationType">
+    <booleanAttribute key="M2_BATCH" value="false"/>
+    <stringAttribute key="M2_GOALS" value="-U archetype:generate"/>
+    <listAttribute key="M2_PROPERTIES">
+        <listEntry value="archetypeGroupId=org.apache.maven.archetypes"/>
+        <listEntry value="archetypeArtifactId=maven-archetype-quickstart"/>
+        <listEntry value="archetypeVersion=1.1"/>
+        <listEntry value="groupId=com.cisco"/>
+        <listEntry value="artifactId=app"/>
+        <listEntry value="version=0.0.1-SNAPSHOT"/>
+        <listEntry value="package=com.cisco.app"/>
+        <listEntry value="outputDirectory=/Users/nlakade/Desktop/29-nov-2023/phase3/app"/>
+    </listAttribute>
+    <booleanAttribute key="M2_SAVE_BEFORE_LAUNCH" value="false"/>
+    <booleanAttribute key="org.eclipse.debug.ui.private" value="true"/>
+    <stringAttribute key="org.eclipse.jdt.launching.WORKING_DIRECTORY" value="/var/folders/sw/p5sj1vp14dqf15dcqzszqsfw0000gn/T/m2e-archetypeGenerator9423665365223004849"/>
+</launchConfiguration>

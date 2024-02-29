@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+/Users/nlakade/Desktop/29-nov-2023/phase3/app/.metadata/.plugins/org.eclipse.jdt.core
+1996865488.index
+124924388.index
+3468314333.index
